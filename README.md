@@ -1,5 +1,9 @@
 # KAGGLE Hotel booking data analysis
 
+<a target="_blank" href="https://colab.research.google.com/github/Yagami11111/Hotel-booking-Analysis/blob/main/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This repository contains an analysis of hotel booking data. The analysis includes data preprocessing, exploratory data analysis (EDA), and machine learning models to predict hotel cancellations and average daily rate (ADR).
 
 ## Files
