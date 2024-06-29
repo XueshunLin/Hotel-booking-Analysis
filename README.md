@@ -1,6 +1,6 @@
 # KAGGLE Hotel booking data analysis
 
-<a target="_blank" href="https://colab.research.google.com/github/XueshunLin/Hotel-booking-Analysis/blob/main/main.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/xueshunlin/Hotel-booking-Analysis/blob/main/main.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
